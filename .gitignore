@@ -4,6 +4,7 @@ rebar
 rebar.config.sample
 *~
 *.beam
+env/*
 deps/*
 /deps/
 /deps/*
